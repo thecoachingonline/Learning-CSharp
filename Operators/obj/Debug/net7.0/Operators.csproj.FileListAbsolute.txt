@@ -1,0 +1,15 @@
+/workspaces/Learning-Csharp/Operators/bin/Debug/net7.0/Operators
+/workspaces/Learning-Csharp/Operators/bin/Debug/net7.0/Operators.deps.json
+/workspaces/Learning-Csharp/Operators/bin/Debug/net7.0/Operators.runtimeconfig.json
+/workspaces/Learning-Csharp/Operators/bin/Debug/net7.0/Operators.dll
+/workspaces/Learning-Csharp/Operators/bin/Debug/net7.0/Operators.pdb
+/workspaces/Learning-Csharp/Operators/obj/Debug/net7.0/Operators.csproj.AssemblyReference.cache
+/workspaces/Learning-Csharp/Operators/obj/Debug/net7.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Learning-Csharp/Operators/obj/Debug/net7.0/Operators.AssemblyInfoInputs.cache
+/workspaces/Learning-Csharp/Operators/obj/Debug/net7.0/Operators.AssemblyInfo.cs
+/workspaces/Learning-Csharp/Operators/obj/Debug/net7.0/Operators.csproj.CoreCompileInputs.cache
+/workspaces/Learning-Csharp/Operators/obj/Debug/net7.0/Operators.dll
+/workspaces/Learning-Csharp/Operators/obj/Debug/net7.0/refint/Operators.dll
+/workspaces/Learning-Csharp/Operators/obj/Debug/net7.0/Operators.pdb
+/workspaces/Learning-Csharp/Operators/obj/Debug/net7.0/Operators.genruntimeconfig.cache
+/workspaces/Learning-Csharp/Operators/obj/Debug/net7.0/ref/Operators.dll
