@@ -1,0 +1,16 @@
+/workspaces/Learning-Csharp/Comments/bin/Debug/net7.0/Comments
+/workspaces/Learning-Csharp/Comments/bin/Debug/net7.0/Comments.deps.json
+/workspaces/Learning-Csharp/Comments/bin/Debug/net7.0/Comments.runtimeconfig.json
+/workspaces/Learning-Csharp/Comments/bin/Debug/net7.0/Comments.dll
+/workspaces/Learning-Csharp/Comments/bin/Debug/net7.0/Comments.pdb
+/workspaces/Learning-Csharp/Comments/bin/Debug/net7.0/Comments.xml
+/workspaces/Learning-Csharp/Comments/obj/Debug/net7.0/Comments.csproj.AssemblyReference.cache
+/workspaces/Learning-Csharp/Comments/obj/Debug/net7.0/Comments.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Learning-Csharp/Comments/obj/Debug/net7.0/Comments.AssemblyInfoInputs.cache
+/workspaces/Learning-Csharp/Comments/obj/Debug/net7.0/Comments.AssemblyInfo.cs
+/workspaces/Learning-Csharp/Comments/obj/Debug/net7.0/Comments.csproj.CoreCompileInputs.cache
+/workspaces/Learning-Csharp/Comments/obj/Debug/net7.0/Comments.dll
+/workspaces/Learning-Csharp/Comments/obj/Debug/net7.0/refint/Comments.dll
+/workspaces/Learning-Csharp/Comments/obj/Debug/net7.0/Comments.pdb
+/workspaces/Learning-Csharp/Comments/obj/Debug/net7.0/Comments.genruntimeconfig.cache
+/workspaces/Learning-Csharp/Comments/obj/Debug/net7.0/ref/Comments.dll

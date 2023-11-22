@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Comments</name>
+    </assembly>
+    <members>
+        <member name="M:Comments.Program.Main(System.String[])">
+            <summary>
+            This is the main sample application function 
+            </summary>
+            <param name="args">An array of string arguments from the command line</param>
+            <returns>
+            No return value
+            </returns>
+        </member>
+    </members>
+</doc>
