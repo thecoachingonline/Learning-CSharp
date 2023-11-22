@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Conditional-if/1.0.0": {
+        "runtime": {
+          "Conditional-if.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Conditional-if/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

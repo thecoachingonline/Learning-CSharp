@@ -1,0 +1,15 @@
+/workspaces/Learning-Csharp/Program Flow/Conditional-if/bin/Debug/net7.0/Conditional-if
+/workspaces/Learning-Csharp/Program Flow/Conditional-if/bin/Debug/net7.0/Conditional-if.deps.json
+/workspaces/Learning-Csharp/Program Flow/Conditional-if/bin/Debug/net7.0/Conditional-if.runtimeconfig.json
+/workspaces/Learning-Csharp/Program Flow/Conditional-if/bin/Debug/net7.0/Conditional-if.dll
+/workspaces/Learning-Csharp/Program Flow/Conditional-if/bin/Debug/net7.0/Conditional-if.pdb
+/workspaces/Learning-Csharp/Program Flow/Conditional-if/obj/Debug/net7.0/Conditional-if.csproj.AssemblyReference.cache
+/workspaces/Learning-Csharp/Program Flow/Conditional-if/obj/Debug/net7.0/Conditional-if.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Learning-Csharp/Program Flow/Conditional-if/obj/Debug/net7.0/Conditional-if.AssemblyInfoInputs.cache
+/workspaces/Learning-Csharp/Program Flow/Conditional-if/obj/Debug/net7.0/Conditional-if.AssemblyInfo.cs
+/workspaces/Learning-Csharp/Program Flow/Conditional-if/obj/Debug/net7.0/Conditional-if.csproj.CoreCompileInputs.cache
+/workspaces/Learning-Csharp/Program Flow/Conditional-if/obj/Debug/net7.0/Conditional-if.dll
+/workspaces/Learning-Csharp/Program Flow/Conditional-if/obj/Debug/net7.0/refint/Conditional-if.dll
+/workspaces/Learning-Csharp/Program Flow/Conditional-if/obj/Debug/net7.0/Conditional-if.pdb
+/workspaces/Learning-Csharp/Program Flow/Conditional-if/obj/Debug/net7.0/Conditional-if.genruntimeconfig.cache
+/workspaces/Learning-Csharp/Program Flow/Conditional-if/obj/Debug/net7.0/ref/Conditional-if.dll
