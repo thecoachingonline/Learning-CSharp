@@ -1,0 +1,15 @@
+/workspaces/Learning-Csharp/Overview/HelloWorld/bin/Debug/net7.0/HelloWorld
+/workspaces/Learning-Csharp/Overview/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/workspaces/Learning-Csharp/Overview/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/workspaces/Learning-Csharp/Overview/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/workspaces/Learning-Csharp/Overview/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/workspaces/Learning-Csharp/Overview/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.AssemblyReference.cache
+/workspaces/Learning-Csharp/Overview/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Learning-Csharp/Overview/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/workspaces/Learning-Csharp/Overview/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/workspaces/Learning-Csharp/Overview/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/workspaces/Learning-Csharp/Overview/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/workspaces/Learning-Csharp/Overview/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/workspaces/Learning-Csharp/Overview/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/workspaces/Learning-Csharp/Overview/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/workspaces/Learning-Csharp/Overview/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll
