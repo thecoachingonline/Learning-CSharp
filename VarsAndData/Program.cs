@@ -20,7 +20,19 @@ namespace VarsAndData
             int[] vals = new int[5];
             string[] strs = {"one", "two", "three"};
 
-            Console.WriteLine("{0},{1},{2},{3},{4},{5},{6},{7}",i,c,b,str,f,d,x,z);
+            // Console.WriteLine("{0},{1},{2},{3},{4},{5},{6},{7}",i,c,b,str,f,d,x,z);
+
+            object obj = null;
+            // Console.WriteLine(obj);
+
+            long bignum;
+            bignum = i;
+
+            float i_to_f = (float)i;
+            Console.WriteLine("{0}",i_to_f);
+
+            int f_to_i = (int)f;
+            Console.WriteLine("{0}", f_to_i);
         }
     }
 }
