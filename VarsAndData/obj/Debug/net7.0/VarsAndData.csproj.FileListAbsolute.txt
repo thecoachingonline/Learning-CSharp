@@ -1,0 +1,15 @@
+/workspaces/Learning-Csharp/VarsAndData/obj/Debug/net7.0/VarsAndData.csproj.AssemblyReference.cache
+/workspaces/Learning-Csharp/VarsAndData/obj/Debug/net7.0/VarsAndData.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Learning-Csharp/VarsAndData/obj/Debug/net7.0/VarsAndData.AssemblyInfoInputs.cache
+/workspaces/Learning-Csharp/VarsAndData/obj/Debug/net7.0/VarsAndData.AssemblyInfo.cs
+/workspaces/Learning-Csharp/VarsAndData/obj/Debug/net7.0/VarsAndData.csproj.CoreCompileInputs.cache
+/workspaces/Learning-Csharp/VarsAndData/bin/Debug/net7.0/VarsAndData
+/workspaces/Learning-Csharp/VarsAndData/bin/Debug/net7.0/VarsAndData.deps.json
+/workspaces/Learning-Csharp/VarsAndData/bin/Debug/net7.0/VarsAndData.runtimeconfig.json
+/workspaces/Learning-Csharp/VarsAndData/bin/Debug/net7.0/VarsAndData.dll
+/workspaces/Learning-Csharp/VarsAndData/bin/Debug/net7.0/VarsAndData.pdb
+/workspaces/Learning-Csharp/VarsAndData/obj/Debug/net7.0/VarsAndData.dll
+/workspaces/Learning-Csharp/VarsAndData/obj/Debug/net7.0/refint/VarsAndData.dll
+/workspaces/Learning-Csharp/VarsAndData/obj/Debug/net7.0/VarsAndData.pdb
+/workspaces/Learning-Csharp/VarsAndData/obj/Debug/net7.0/VarsAndData.genruntimeconfig.cache
+/workspaces/Learning-Csharp/VarsAndData/obj/Debug/net7.0/ref/VarsAndData.dll
