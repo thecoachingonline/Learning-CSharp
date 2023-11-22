@@ -1,0 +1,15 @@
+/workspaces/Learning-Csharp/Conditionals-Switch/bin/Debug/net7.0/Conditionals-Switch
+/workspaces/Learning-Csharp/Conditionals-Switch/bin/Debug/net7.0/Conditionals-Switch.deps.json
+/workspaces/Learning-Csharp/Conditionals-Switch/bin/Debug/net7.0/Conditionals-Switch.runtimeconfig.json
+/workspaces/Learning-Csharp/Conditionals-Switch/bin/Debug/net7.0/Conditionals-Switch.dll
+/workspaces/Learning-Csharp/Conditionals-Switch/bin/Debug/net7.0/Conditionals-Switch.pdb
+/workspaces/Learning-Csharp/Conditionals-Switch/obj/Debug/net7.0/Conditionals-Switch.csproj.AssemblyReference.cache
+/workspaces/Learning-Csharp/Conditionals-Switch/obj/Debug/net7.0/Conditionals-Switch.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Learning-Csharp/Conditionals-Switch/obj/Debug/net7.0/Conditionals-Switch.AssemblyInfoInputs.cache
+/workspaces/Learning-Csharp/Conditionals-Switch/obj/Debug/net7.0/Conditionals-Switch.AssemblyInfo.cs
+/workspaces/Learning-Csharp/Conditionals-Switch/obj/Debug/net7.0/Conditionals-Switch.csproj.CoreCompileInputs.cache
+/workspaces/Learning-Csharp/Conditionals-Switch/obj/Debug/net7.0/Conditionals-Switch.dll
+/workspaces/Learning-Csharp/Conditionals-Switch/obj/Debug/net7.0/refint/Conditionals-Switch.dll
+/workspaces/Learning-Csharp/Conditionals-Switch/obj/Debug/net7.0/Conditionals-Switch.pdb
+/workspaces/Learning-Csharp/Conditionals-Switch/obj/Debug/net7.0/Conditionals-Switch.genruntimeconfig.cache
+/workspaces/Learning-Csharp/Conditionals-Switch/obj/Debug/net7.0/ref/Conditionals-Switch.dll
