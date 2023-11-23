@@ -1,0 +1,15 @@
+/workspaces/Learning-Csharp/Exceptions/bin/Debug/net7.0/Exceptions
+/workspaces/Learning-Csharp/Exceptions/bin/Debug/net7.0/Exceptions.deps.json
+/workspaces/Learning-Csharp/Exceptions/bin/Debug/net7.0/Exceptions.runtimeconfig.json
+/workspaces/Learning-Csharp/Exceptions/bin/Debug/net7.0/Exceptions.dll
+/workspaces/Learning-Csharp/Exceptions/bin/Debug/net7.0/Exceptions.pdb
+/workspaces/Learning-Csharp/Exceptions/obj/Debug/net7.0/Exceptions.csproj.AssemblyReference.cache
+/workspaces/Learning-Csharp/Exceptions/obj/Debug/net7.0/Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Learning-Csharp/Exceptions/obj/Debug/net7.0/Exceptions.AssemblyInfoInputs.cache
+/workspaces/Learning-Csharp/Exceptions/obj/Debug/net7.0/Exceptions.AssemblyInfo.cs
+/workspaces/Learning-Csharp/Exceptions/obj/Debug/net7.0/Exceptions.csproj.CoreCompileInputs.cache
+/workspaces/Learning-Csharp/Exceptions/obj/Debug/net7.0/Exceptions.dll
+/workspaces/Learning-Csharp/Exceptions/obj/Debug/net7.0/refint/Exceptions.dll
+/workspaces/Learning-Csharp/Exceptions/obj/Debug/net7.0/Exceptions.pdb
+/workspaces/Learning-Csharp/Exceptions/obj/Debug/net7.0/Exceptions.genruntimeconfig.cache
+/workspaces/Learning-Csharp/Exceptions/obj/Debug/net7.0/ref/Exceptions.dll
