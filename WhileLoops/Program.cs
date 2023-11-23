@@ -8,11 +8,19 @@ namespace WhileLoops
         {
             string inputStr = "";
 
-            Console.WriteLine("Basic while() loop:");
-            while (inputStr != "exit") {
+        //    Console.WriteLine("Basic while() loop:");
+        //    while (inputStr != "exit") {
+        //        inputStr = Console.ReadLine();
+        //        Console.WriteLine("You entered: {0}", inputStr);
+        //    }
+
+        //    Console.WriteLine();
+
+            Console.WriteLine("The do-while() loop:");
+            do {
                 inputStr = Console.ReadLine();
                 Console.WriteLine("You entered: {0}", inputStr);
-            }
+            } while(inputStr != "exit");
 
             Console.WriteLine();
         }
