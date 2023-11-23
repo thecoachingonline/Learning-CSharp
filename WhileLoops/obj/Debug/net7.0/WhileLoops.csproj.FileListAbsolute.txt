@@ -1,0 +1,15 @@
+/workspaces/Learning-Csharp/WhileLoops/bin/Debug/net7.0/WhileLoops
+/workspaces/Learning-Csharp/WhileLoops/bin/Debug/net7.0/WhileLoops.deps.json
+/workspaces/Learning-Csharp/WhileLoops/bin/Debug/net7.0/WhileLoops.runtimeconfig.json
+/workspaces/Learning-Csharp/WhileLoops/bin/Debug/net7.0/WhileLoops.dll
+/workspaces/Learning-Csharp/WhileLoops/bin/Debug/net7.0/WhileLoops.pdb
+/workspaces/Learning-Csharp/WhileLoops/obj/Debug/net7.0/WhileLoops.csproj.AssemblyReference.cache
+/workspaces/Learning-Csharp/WhileLoops/obj/Debug/net7.0/WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Learning-Csharp/WhileLoops/obj/Debug/net7.0/WhileLoops.AssemblyInfoInputs.cache
+/workspaces/Learning-Csharp/WhileLoops/obj/Debug/net7.0/WhileLoops.AssemblyInfo.cs
+/workspaces/Learning-Csharp/WhileLoops/obj/Debug/net7.0/WhileLoops.csproj.CoreCompileInputs.cache
+/workspaces/Learning-Csharp/WhileLoops/obj/Debug/net7.0/WhileLoops.dll
+/workspaces/Learning-Csharp/WhileLoops/obj/Debug/net7.0/refint/WhileLoops.dll
+/workspaces/Learning-Csharp/WhileLoops/obj/Debug/net7.0/WhileLoops.pdb
+/workspaces/Learning-Csharp/WhileLoops/obj/Debug/net7.0/WhileLoops.genruntimeconfig.cache
+/workspaces/Learning-Csharp/WhileLoops/obj/Debug/net7.0/ref/WhileLoops.dll
