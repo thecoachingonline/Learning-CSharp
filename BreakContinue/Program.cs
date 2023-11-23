@@ -11,11 +11,15 @@ namespace BreakContinue
             Console.WriteLine("Using break and continue :");
             foreach (int val in values)
             {
+                if (val >= 20 && val <= 29) {
+                    continue;
+                }
+
                 Console.WriteLine($"val is currently {val}");
 
-                if (val >= 40) {
-                    break;
-                }
+            //    if (val >= 40) {
+            //        break;
+            //    }
             }
         }
     }
