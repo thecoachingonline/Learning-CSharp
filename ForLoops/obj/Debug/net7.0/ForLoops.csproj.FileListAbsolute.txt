@@ -1,0 +1,15 @@
+/workspaces/Learning-Csharp/ForLoops/obj/Debug/net7.0/ForLoops.csproj.AssemblyReference.cache
+/workspaces/Learning-Csharp/ForLoops/obj/Debug/net7.0/ForLoops.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Learning-Csharp/ForLoops/obj/Debug/net7.0/ForLoops.AssemblyInfoInputs.cache
+/workspaces/Learning-Csharp/ForLoops/obj/Debug/net7.0/ForLoops.AssemblyInfo.cs
+/workspaces/Learning-Csharp/ForLoops/obj/Debug/net7.0/ForLoops.csproj.CoreCompileInputs.cache
+/workspaces/Learning-Csharp/ForLoops/bin/Debug/net7.0/ForLoops
+/workspaces/Learning-Csharp/ForLoops/bin/Debug/net7.0/ForLoops.deps.json
+/workspaces/Learning-Csharp/ForLoops/bin/Debug/net7.0/ForLoops.runtimeconfig.json
+/workspaces/Learning-Csharp/ForLoops/bin/Debug/net7.0/ForLoops.dll
+/workspaces/Learning-Csharp/ForLoops/bin/Debug/net7.0/ForLoops.pdb
+/workspaces/Learning-Csharp/ForLoops/obj/Debug/net7.0/ForLoops.dll
+/workspaces/Learning-Csharp/ForLoops/obj/Debug/net7.0/refint/ForLoops.dll
+/workspaces/Learning-Csharp/ForLoops/obj/Debug/net7.0/ForLoops.pdb
+/workspaces/Learning-Csharp/ForLoops/obj/Debug/net7.0/ForLoops.genruntimeconfig.cache
+/workspaces/Learning-Csharp/ForLoops/obj/Debug/net7.0/ref/ForLoops.dll
