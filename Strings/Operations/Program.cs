@@ -24,6 +24,14 @@ namespace Operations
                     break;
                 }
             }
+            outstr = String.Concat(strs);
+            Console.WriteLine(outstr);
+
+            outstr = String.Join('.', strs);
+            Console.WriteLine(outstr);
+
+            outstr = String.Join("---", strs);
+            Console.WriteLine(outstr);
         }
     }
 }

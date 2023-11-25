@@ -1,0 +1,15 @@
+/workspaces/Learning-Csharp/Strings/Operations/bin/Debug/net7.0/Operations
+/workspaces/Learning-Csharp/Strings/Operations/bin/Debug/net7.0/Operations.deps.json
+/workspaces/Learning-Csharp/Strings/Operations/bin/Debug/net7.0/Operations.runtimeconfig.json
+/workspaces/Learning-Csharp/Strings/Operations/bin/Debug/net7.0/Operations.dll
+/workspaces/Learning-Csharp/Strings/Operations/bin/Debug/net7.0/Operations.pdb
+/workspaces/Learning-Csharp/Strings/Operations/obj/Debug/net7.0/Operations.csproj.AssemblyReference.cache
+/workspaces/Learning-Csharp/Strings/Operations/obj/Debug/net7.0/Operations.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Learning-Csharp/Strings/Operations/obj/Debug/net7.0/Operations.AssemblyInfoInputs.cache
+/workspaces/Learning-Csharp/Strings/Operations/obj/Debug/net7.0/Operations.AssemblyInfo.cs
+/workspaces/Learning-Csharp/Strings/Operations/obj/Debug/net7.0/Operations.csproj.CoreCompileInputs.cache
+/workspaces/Learning-Csharp/Strings/Operations/obj/Debug/net7.0/Operations.dll
+/workspaces/Learning-Csharp/Strings/Operations/obj/Debug/net7.0/refint/Operations.dll
+/workspaces/Learning-Csharp/Strings/Operations/obj/Debug/net7.0/Operations.pdb
+/workspaces/Learning-Csharp/Strings/Operations/obj/Debug/net7.0/Operations.genruntimeconfig.cache
+/workspaces/Learning-Csharp/Strings/Operations/obj/Debug/net7.0/ref/Operations.dll
