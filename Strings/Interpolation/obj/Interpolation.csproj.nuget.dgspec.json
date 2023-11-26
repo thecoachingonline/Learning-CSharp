@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/Learning-Csharp/Interpolation/Interpolation.csproj": {}
+    "/workspaces/Learning-Csharp/Strings/Interpolation/Interpolation.csproj": {}
   },
   "projects": {
-    "/workspaces/Learning-Csharp/Interpolation/Interpolation.csproj": {
+    "/workspaces/Learning-Csharp/Strings/Interpolation/Interpolation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/Learning-Csharp/Interpolation/Interpolation.csproj",
+        "projectUniqueName": "/workspaces/Learning-Csharp/Strings/Interpolation/Interpolation.csproj",
         "projectName": "Interpolation",
-        "projectPath": "/workspaces/Learning-Csharp/Interpolation/Interpolation.csproj",
+        "projectPath": "/workspaces/Learning-Csharp/Strings/Interpolation/Interpolation.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/Learning-Csharp/Interpolation/obj/",
+        "outputPath": "/workspaces/Learning-Csharp/Strings/Interpolation/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"

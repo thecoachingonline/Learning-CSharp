@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/CgU6jvFEli5GuIzh5SJmvijzgN7a8yvss036Iyj5etyXk0xE+kmafWGnM8yBjBP4dAF7pkg/GcseTObFO8+nA==",
+  "dgSpecHash": "qe4Wt8Gf7d3YE1zqxVU+5KfWjfiw+WStKRp2gKvi+LUEebNmGf5EhGkWuGWcZ1w0g5mH7stzwkfGOrfpp6vQmQ==",
   "success": true,
-  "projectFilePath": "/workspaces/Learning-Csharp/Interpolation/Interpolation.csproj",
+  "projectFilePath": "/workspaces/Learning-Csharp/Strings/Interpolation/Interpolation.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

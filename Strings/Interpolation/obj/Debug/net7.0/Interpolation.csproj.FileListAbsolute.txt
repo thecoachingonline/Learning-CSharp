@@ -1,0 +1,15 @@
+/workspaces/Learning-Csharp/Strings/Interpolation/obj/Debug/net7.0/Interpolation.csproj.AssemblyReference.cache
+/workspaces/Learning-Csharp/Strings/Interpolation/obj/Debug/net7.0/Interpolation.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Learning-Csharp/Strings/Interpolation/obj/Debug/net7.0/Interpolation.AssemblyInfoInputs.cache
+/workspaces/Learning-Csharp/Strings/Interpolation/obj/Debug/net7.0/Interpolation.AssemblyInfo.cs
+/workspaces/Learning-Csharp/Strings/Interpolation/obj/Debug/net7.0/Interpolation.csproj.CoreCompileInputs.cache
+/workspaces/Learning-Csharp/Strings/Interpolation/bin/Debug/net7.0/Interpolation
+/workspaces/Learning-Csharp/Strings/Interpolation/bin/Debug/net7.0/Interpolation.deps.json
+/workspaces/Learning-Csharp/Strings/Interpolation/bin/Debug/net7.0/Interpolation.runtimeconfig.json
+/workspaces/Learning-Csharp/Strings/Interpolation/bin/Debug/net7.0/Interpolation.dll
+/workspaces/Learning-Csharp/Strings/Interpolation/bin/Debug/net7.0/Interpolation.pdb
+/workspaces/Learning-Csharp/Strings/Interpolation/obj/Debug/net7.0/Interpolation.dll
+/workspaces/Learning-Csharp/Strings/Interpolation/obj/Debug/net7.0/refint/Interpolation.dll
+/workspaces/Learning-Csharp/Strings/Interpolation/obj/Debug/net7.0/Interpolation.pdb
+/workspaces/Learning-Csharp/Strings/Interpolation/obj/Debug/net7.0/Interpolation.genruntimeconfig.cache
+/workspaces/Learning-Csharp/Strings/Interpolation/obj/Debug/net7.0/ref/Interpolation.dll
