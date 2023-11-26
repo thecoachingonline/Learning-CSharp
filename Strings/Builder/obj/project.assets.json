@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/Learning-Csharp/Builder/Builder.csproj",
+      "projectUniqueName": "/workspaces/Learning-Csharp/Strings/Builder/Builder.csproj",
       "projectName": "Builder",
-      "projectPath": "/workspaces/Learning-Csharp/Builder/Builder.csproj",
+      "projectPath": "/workspaces/Learning-Csharp/Strings/Builder/Builder.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/Learning-Csharp/Builder/obj/",
+      "outputPath": "/workspaces/Learning-Csharp/Strings/Builder/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"
