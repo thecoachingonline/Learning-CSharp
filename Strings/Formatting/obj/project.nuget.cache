@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6R7iVkKHzQRqNRNSJ6mdQr4gTVT/C9vG6bRkswKSEcsdv4V6ZWHZcyD1w/5MV7fSnBPcvzn5jJTD7cGko5Auhw==",
+  "dgSpecHash": "miczIrrCUS6wy34yaFDDaT+7AzbVy1Sj+xyEZUa68ecOLK1uJ9UfyHXiByAhifyMDhWEFPAwujndMYlZdwmRLg==",
   "success": true,
-  "projectFilePath": "/workspaces/Learning-Csharp/Formatting/Formatting.csproj",
+  "projectFilePath": "/workspaces/Learning-Csharp/Strings/Formatting/Formatting.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

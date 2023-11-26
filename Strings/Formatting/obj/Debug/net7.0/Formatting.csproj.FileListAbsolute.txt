@@ -1,0 +1,15 @@
+/workspaces/Learning-Csharp/Strings/Formatting/bin/Debug/net7.0/Formatting
+/workspaces/Learning-Csharp/Strings/Formatting/bin/Debug/net7.0/Formatting.deps.json
+/workspaces/Learning-Csharp/Strings/Formatting/bin/Debug/net7.0/Formatting.runtimeconfig.json
+/workspaces/Learning-Csharp/Strings/Formatting/bin/Debug/net7.0/Formatting.dll
+/workspaces/Learning-Csharp/Strings/Formatting/bin/Debug/net7.0/Formatting.pdb
+/workspaces/Learning-Csharp/Strings/Formatting/obj/Debug/net7.0/Formatting.csproj.AssemblyReference.cache
+/workspaces/Learning-Csharp/Strings/Formatting/obj/Debug/net7.0/Formatting.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Learning-Csharp/Strings/Formatting/obj/Debug/net7.0/Formatting.AssemblyInfoInputs.cache
+/workspaces/Learning-Csharp/Strings/Formatting/obj/Debug/net7.0/Formatting.AssemblyInfo.cs
+/workspaces/Learning-Csharp/Strings/Formatting/obj/Debug/net7.0/Formatting.csproj.CoreCompileInputs.cache
+/workspaces/Learning-Csharp/Strings/Formatting/obj/Debug/net7.0/Formatting.dll
+/workspaces/Learning-Csharp/Strings/Formatting/obj/Debug/net7.0/refint/Formatting.dll
+/workspaces/Learning-Csharp/Strings/Formatting/obj/Debug/net7.0/Formatting.pdb
+/workspaces/Learning-Csharp/Strings/Formatting/obj/Debug/net7.0/Formatting.genruntimeconfig.cache
+/workspaces/Learning-Csharp/Strings/Formatting/obj/Debug/net7.0/ref/Formatting.dll

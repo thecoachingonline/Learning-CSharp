@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/Learning-Csharp/Formatting/Formatting.csproj",
+      "projectUniqueName": "/workspaces/Learning-Csharp/Strings/Formatting/Formatting.csproj",
       "projectName": "Formatting",
-      "projectPath": "/workspaces/Learning-Csharp/Formatting/Formatting.csproj",
+      "projectPath": "/workspaces/Learning-Csharp/Strings/Formatting/Formatting.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/Learning-Csharp/Formatting/obj/",
+      "outputPath": "/workspaces/Learning-Csharp/Strings/Formatting/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"
