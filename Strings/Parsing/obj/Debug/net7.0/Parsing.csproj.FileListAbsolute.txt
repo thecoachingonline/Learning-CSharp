@@ -1,0 +1,15 @@
+/workspaces/Learning-Csharp/Strings/Parsing/obj/Debug/net7.0/Parsing.csproj.AssemblyReference.cache
+/workspaces/Learning-Csharp/Strings/Parsing/obj/Debug/net7.0/Parsing.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Learning-Csharp/Strings/Parsing/obj/Debug/net7.0/Parsing.AssemblyInfoInputs.cache
+/workspaces/Learning-Csharp/Strings/Parsing/obj/Debug/net7.0/Parsing.AssemblyInfo.cs
+/workspaces/Learning-Csharp/Strings/Parsing/obj/Debug/net7.0/Parsing.csproj.CoreCompileInputs.cache
+/workspaces/Learning-Csharp/Strings/Parsing/bin/Debug/net7.0/Parsing
+/workspaces/Learning-Csharp/Strings/Parsing/bin/Debug/net7.0/Parsing.deps.json
+/workspaces/Learning-Csharp/Strings/Parsing/bin/Debug/net7.0/Parsing.runtimeconfig.json
+/workspaces/Learning-Csharp/Strings/Parsing/bin/Debug/net7.0/Parsing.dll
+/workspaces/Learning-Csharp/Strings/Parsing/bin/Debug/net7.0/Parsing.pdb
+/workspaces/Learning-Csharp/Strings/Parsing/obj/Debug/net7.0/Parsing.dll
+/workspaces/Learning-Csharp/Strings/Parsing/obj/Debug/net7.0/refint/Parsing.dll
+/workspaces/Learning-Csharp/Strings/Parsing/obj/Debug/net7.0/Parsing.pdb
+/workspaces/Learning-Csharp/Strings/Parsing/obj/Debug/net7.0/Parsing.genruntimeconfig.cache
+/workspaces/Learning-Csharp/Strings/Parsing/obj/Debug/net7.0/ref/Parsing.dll

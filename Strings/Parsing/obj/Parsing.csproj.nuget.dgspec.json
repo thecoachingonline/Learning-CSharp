@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/Learning-Csharp/Parsing/Parsing.csproj": {}
+    "/workspaces/Learning-Csharp/Strings/Parsing/Parsing.csproj": {}
   },
   "projects": {
-    "/workspaces/Learning-Csharp/Parsing/Parsing.csproj": {
+    "/workspaces/Learning-Csharp/Strings/Parsing/Parsing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/Learning-Csharp/Parsing/Parsing.csproj",
+        "projectUniqueName": "/workspaces/Learning-Csharp/Strings/Parsing/Parsing.csproj",
         "projectName": "Parsing",
-        "projectPath": "/workspaces/Learning-Csharp/Parsing/Parsing.csproj",
+        "projectPath": "/workspaces/Learning-Csharp/Strings/Parsing/Parsing.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/Learning-Csharp/Parsing/obj/",
+        "outputPath": "/workspaces/Learning-Csharp/Strings/Parsing/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"
