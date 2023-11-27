@@ -1,0 +1,15 @@
+/workspaces/Learning-Csharp/Functions/Basics/obj/Debug/net7.0/Basics.csproj.AssemblyReference.cache
+/workspaces/Learning-Csharp/Functions/Basics/obj/Debug/net7.0/Basics.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Learning-Csharp/Functions/Basics/obj/Debug/net7.0/Basics.AssemblyInfoInputs.cache
+/workspaces/Learning-Csharp/Functions/Basics/obj/Debug/net7.0/Basics.AssemblyInfo.cs
+/workspaces/Learning-Csharp/Functions/Basics/obj/Debug/net7.0/Basics.csproj.CoreCompileInputs.cache
+/workspaces/Learning-Csharp/Functions/Basics/bin/Debug/net7.0/Basics
+/workspaces/Learning-Csharp/Functions/Basics/bin/Debug/net7.0/Basics.deps.json
+/workspaces/Learning-Csharp/Functions/Basics/bin/Debug/net7.0/Basics.runtimeconfig.json
+/workspaces/Learning-Csharp/Functions/Basics/bin/Debug/net7.0/Basics.dll
+/workspaces/Learning-Csharp/Functions/Basics/bin/Debug/net7.0/Basics.pdb
+/workspaces/Learning-Csharp/Functions/Basics/obj/Debug/net7.0/Basics.dll
+/workspaces/Learning-Csharp/Functions/Basics/obj/Debug/net7.0/refint/Basics.dll
+/workspaces/Learning-Csharp/Functions/Basics/obj/Debug/net7.0/Basics.pdb
+/workspaces/Learning-Csharp/Functions/Basics/obj/Debug/net7.0/Basics.genruntimeconfig.cache
+/workspaces/Learning-Csharp/Functions/Basics/obj/Debug/net7.0/ref/Basics.dll
