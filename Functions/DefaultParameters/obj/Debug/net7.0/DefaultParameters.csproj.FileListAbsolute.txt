@@ -1,0 +1,15 @@
+/workspaces/Learning-Csharp/Functions/DefaultParameters/bin/Debug/net7.0/DefaultParameters
+/workspaces/Learning-Csharp/Functions/DefaultParameters/bin/Debug/net7.0/DefaultParameters.deps.json
+/workspaces/Learning-Csharp/Functions/DefaultParameters/bin/Debug/net7.0/DefaultParameters.runtimeconfig.json
+/workspaces/Learning-Csharp/Functions/DefaultParameters/bin/Debug/net7.0/DefaultParameters.dll
+/workspaces/Learning-Csharp/Functions/DefaultParameters/bin/Debug/net7.0/DefaultParameters.pdb
+/workspaces/Learning-Csharp/Functions/DefaultParameters/obj/Debug/net7.0/DefaultParameters.csproj.AssemblyReference.cache
+/workspaces/Learning-Csharp/Functions/DefaultParameters/obj/Debug/net7.0/DefaultParameters.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Learning-Csharp/Functions/DefaultParameters/obj/Debug/net7.0/DefaultParameters.AssemblyInfoInputs.cache
+/workspaces/Learning-Csharp/Functions/DefaultParameters/obj/Debug/net7.0/DefaultParameters.AssemblyInfo.cs
+/workspaces/Learning-Csharp/Functions/DefaultParameters/obj/Debug/net7.0/DefaultParameters.csproj.CoreCompileInputs.cache
+/workspaces/Learning-Csharp/Functions/DefaultParameters/obj/Debug/net7.0/DefaultParameters.dll
+/workspaces/Learning-Csharp/Functions/DefaultParameters/obj/Debug/net7.0/refint/DefaultParameters.dll
+/workspaces/Learning-Csharp/Functions/DefaultParameters/obj/Debug/net7.0/DefaultParameters.pdb
+/workspaces/Learning-Csharp/Functions/DefaultParameters/obj/Debug/net7.0/DefaultParameters.genruntimeconfig.cache
+/workspaces/Learning-Csharp/Functions/DefaultParameters/obj/Debug/net7.0/ref/DefaultParameters.dll
