@@ -1,0 +1,15 @@
+/workspaces/Learning-Csharp/Functions/RefAndOutParams/obj/Debug/net7.0/RefAndOutParams.csproj.AssemblyReference.cache
+/workspaces/Learning-Csharp/Functions/RefAndOutParams/obj/Debug/net7.0/RefAndOutParams.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Learning-Csharp/Functions/RefAndOutParams/obj/Debug/net7.0/RefAndOutParams.AssemblyInfoInputs.cache
+/workspaces/Learning-Csharp/Functions/RefAndOutParams/obj/Debug/net7.0/RefAndOutParams.AssemblyInfo.cs
+/workspaces/Learning-Csharp/Functions/RefAndOutParams/obj/Debug/net7.0/RefAndOutParams.csproj.CoreCompileInputs.cache
+/workspaces/Learning-Csharp/Functions/RefAndOutParams/bin/Debug/net7.0/RefAndOutParams
+/workspaces/Learning-Csharp/Functions/RefAndOutParams/bin/Debug/net7.0/RefAndOutParams.deps.json
+/workspaces/Learning-Csharp/Functions/RefAndOutParams/bin/Debug/net7.0/RefAndOutParams.runtimeconfig.json
+/workspaces/Learning-Csharp/Functions/RefAndOutParams/bin/Debug/net7.0/RefAndOutParams.dll
+/workspaces/Learning-Csharp/Functions/RefAndOutParams/bin/Debug/net7.0/RefAndOutParams.pdb
+/workspaces/Learning-Csharp/Functions/RefAndOutParams/obj/Debug/net7.0/RefAndOutParams.dll
+/workspaces/Learning-Csharp/Functions/RefAndOutParams/obj/Debug/net7.0/refint/RefAndOutParams.dll
+/workspaces/Learning-Csharp/Functions/RefAndOutParams/obj/Debug/net7.0/RefAndOutParams.pdb
+/workspaces/Learning-Csharp/Functions/RefAndOutParams/obj/Debug/net7.0/RefAndOutParams.genruntimeconfig.cache
+/workspaces/Learning-Csharp/Functions/RefAndOutParams/obj/Debug/net7.0/ref/RefAndOutParams.dll
