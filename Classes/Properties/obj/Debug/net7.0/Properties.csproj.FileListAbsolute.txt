@@ -1,0 +1,5 @@
+/workspaces/Learning-Csharp/Classes/Properties/obj/Debug/net7.0/Properties.csproj.AssemblyReference.cache
+/workspaces/Learning-Csharp/Classes/Properties/obj/Debug/net7.0/Properties.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Learning-Csharp/Classes/Properties/obj/Debug/net7.0/Properties.AssemblyInfoInputs.cache
+/workspaces/Learning-Csharp/Classes/Properties/obj/Debug/net7.0/Properties.AssemblyInfo.cs
+/workspaces/Learning-Csharp/Classes/Properties/obj/Debug/net7.0/Properties.csproj.CoreCompileInputs.cache
