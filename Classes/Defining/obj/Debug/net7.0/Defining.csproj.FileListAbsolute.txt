@@ -1,0 +1,15 @@
+/workspaces/Learning-Csharp/Classes/Defining/bin/Debug/net7.0/Defining
+/workspaces/Learning-Csharp/Classes/Defining/bin/Debug/net7.0/Defining.deps.json
+/workspaces/Learning-Csharp/Classes/Defining/bin/Debug/net7.0/Defining.runtimeconfig.json
+/workspaces/Learning-Csharp/Classes/Defining/bin/Debug/net7.0/Defining.dll
+/workspaces/Learning-Csharp/Classes/Defining/bin/Debug/net7.0/Defining.pdb
+/workspaces/Learning-Csharp/Classes/Defining/obj/Debug/net7.0/Defining.csproj.AssemblyReference.cache
+/workspaces/Learning-Csharp/Classes/Defining/obj/Debug/net7.0/Defining.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Learning-Csharp/Classes/Defining/obj/Debug/net7.0/Defining.AssemblyInfoInputs.cache
+/workspaces/Learning-Csharp/Classes/Defining/obj/Debug/net7.0/Defining.AssemblyInfo.cs
+/workspaces/Learning-Csharp/Classes/Defining/obj/Debug/net7.0/Defining.csproj.CoreCompileInputs.cache
+/workspaces/Learning-Csharp/Classes/Defining/obj/Debug/net7.0/Defining.dll
+/workspaces/Learning-Csharp/Classes/Defining/obj/Debug/net7.0/refint/Defining.dll
+/workspaces/Learning-Csharp/Classes/Defining/obj/Debug/net7.0/Defining.pdb
+/workspaces/Learning-Csharp/Classes/Defining/obj/Debug/net7.0/Defining.genruntimeconfig.cache
+/workspaces/Learning-Csharp/Classes/Defining/obj/Debug/net7.0/ref/Defining.dll
