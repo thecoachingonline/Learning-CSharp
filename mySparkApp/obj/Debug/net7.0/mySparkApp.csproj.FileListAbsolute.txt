@@ -1,0 +1,5 @@
+/workspaces/Learning-Csharp/mySparkApp/obj/Debug/net7.0/mySparkApp.csproj.AssemblyReference.cache
+/workspaces/Learning-Csharp/mySparkApp/obj/Debug/net7.0/mySparkApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Learning-Csharp/mySparkApp/obj/Debug/net7.0/mySparkApp.AssemblyInfoInputs.cache
+/workspaces/Learning-Csharp/mySparkApp/obj/Debug/net7.0/mySparkApp.AssemblyInfo.cs
+/workspaces/Learning-Csharp/mySparkApp/obj/Debug/net7.0/mySparkApp.csproj.CoreCompileInputs.cache
