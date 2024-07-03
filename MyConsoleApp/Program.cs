@@ -27,6 +27,12 @@ class Program
         Console.WriteLine(" Seconds = " + DateTime.Now.TimeOfDay.Seconds.ToString());
         Console.WriteLine(" Milliseconds = " + DateTime.Now.TimeOfDay.Milliseconds.ToString());
         Console.WriteLine("---------------------");
+        Console.WriteLine("LongDate = " + DateTime.Now.ToLongDateString());
+        Console.WriteLine("ShortDate = " + DateTime.Now.ToShortDateString());
+        Console.WriteLine("LongTime = " + DateTime.Now.ToLongTimeString());
+        Console.WriteLine("ShortTime = " + DateTime.Now.ToShortTimeString());
+        Console.WriteLine("LocalTime = " + DateTime.Now.ToLocalTime());
+        Console.WriteLine("---------------------");
         Console.WriteLine("Press any key to exit program");
         Console.ReadLine();
     }
