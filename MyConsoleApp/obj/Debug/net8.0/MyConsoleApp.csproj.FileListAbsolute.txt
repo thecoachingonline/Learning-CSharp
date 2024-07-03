@@ -1,0 +1,15 @@
+/workspaces/Learning-CSharp/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Learning-CSharp/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.AssemblyInfoInputs.cache
+/workspaces/Learning-CSharp/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.AssemblyInfo.cs
+/workspaces/Learning-CSharp/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.csproj.CoreCompileInputs.cache
+/workspaces/Learning-CSharp/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.sourcelink.json
+/workspaces/Learning-CSharp/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp
+/workspaces/Learning-CSharp/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.deps.json
+/workspaces/Learning-CSharp/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.runtimeconfig.json
+/workspaces/Learning-CSharp/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.dll
+/workspaces/Learning-CSharp/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.pdb
+/workspaces/Learning-CSharp/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.dll
+/workspaces/Learning-CSharp/MyConsoleApp/obj/Debug/net8.0/refint/MyConsoleApp.dll
+/workspaces/Learning-CSharp/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.pdb
+/workspaces/Learning-CSharp/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.genruntimeconfig.cache
+/workspaces/Learning-CSharp/MyConsoleApp/obj/Debug/net8.0/ref/MyConsoleApp.dll
