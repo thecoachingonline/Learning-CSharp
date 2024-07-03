@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "NsOZEVWCPeU/QfC5v8Q0Q0RijRmCCkS1mvOerUW6tfXtTdh+E3CrSHPo1vDJRfrkQqbNPS5x2yqsBNyOrd/bWw==",
+  "dgSpecHash": "MjS4fXcBMW0=",
   "success": true,
-  "projectFilePath": "/workspaces/Learning-Csharp/Overview/HelloWorld/HelloWorld.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/workspaces/Learning-CSharp/Overview/HelloWorld/HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.20/microsoft.netcore.app.host.linux-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/Learning-Csharp/Overview/HelloWorld/HelloWorld.csproj": {}
+    "/workspaces/Learning-CSharp/Overview/HelloWorld/HelloWorld.csproj": {}
   },
   "projects": {
-    "/workspaces/Learning-Csharp/Overview/HelloWorld/HelloWorld.csproj": {
+    "/workspaces/Learning-CSharp/Overview/HelloWorld/HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/Learning-Csharp/Overview/HelloWorld/HelloWorld.csproj",
+        "projectUniqueName": "/workspaces/Learning-CSharp/Overview/HelloWorld/HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "/workspaces/Learning-Csharp/Overview/HelloWorld/HelloWorld.csproj",
+        "projectPath": "/workspaces/Learning-CSharp/Overview/HelloWorld/HelloWorld.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/Learning-Csharp/Overview/HelloWorld/obj/",
+        "outputPath": "/workspaces/Learning-CSharp/Overview/HelloWorld/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -48,12 +53,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/dotnet/7.0.306/sdk/7.0.306/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.301/RuntimeIdentifierGraph.json"
         }
       }
     }
