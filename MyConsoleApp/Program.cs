@@ -17,7 +17,16 @@ class Program
         Console.WriteLine(" Day = " + DateTime.Now.Day.ToString());
         Console.WriteLine(" Month = " + DateTime.Now.Month.ToString());
         Console.WriteLine(" Year = " + DateTime.Now.Year.ToString());
-        Console.WriteLine();
+        Console.WriteLine("---------------------");
+        Console.WriteLine("DayOfWeek = " + DateTime.Now.DayOfWeek.ToString());
+        Console.WriteLine("DayOfYear = " + DateTime.Now.DayOfYear.ToString());
+        Console.WriteLine("---------------------");
+        Console.WriteLine(" TimeOfDay = " + DateTime.Now.TimeOfDay.ToString());
+        Console.WriteLine(" Hours = " + DateTime.Now.TimeOfDay.Hours.ToString());
+        Console.WriteLine(" Minutes = " + DateTime.Now.TimeOfDay.Minutes.ToString());
+        Console.WriteLine(" Seconds = " + DateTime.Now.TimeOfDay.Seconds.ToString());
+        Console.WriteLine(" Milliseconds = " + DateTime.Now.TimeOfDay.Milliseconds.ToString());
+        Console.WriteLine("---------------------");
         Console.WriteLine("Press any key to exit program");
         Console.ReadLine();
     }
